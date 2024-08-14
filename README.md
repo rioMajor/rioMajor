@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate DevOps and Cloud <br>enthusiast from India, Currently looking for Devops and Cloud Internships and Entry-level Roles.</p>
+<p align="left">Passionate DevOps and Cloud <br>enthusiast from India, Currently looking for Devops,Cloud Internships and Frontend Roles.</p>
 
 ###
 
