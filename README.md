@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sharan a.k.a rioMajor</h1>
+<h1 align="left">Hi 👋, I'm Sharan N</h1>
 
 ###
 
